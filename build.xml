@@ -1,6 +1,6 @@
 
 <?xml version="1.0" encoding="UTF-8"?>
-<project name="sample" default="checkstyle" basedir=".">
+<project name="Checkstyle" default="checkstyle" basedir=".">
 
     <property name="classes.dir" value="classes" />
     <property name="src.dir" value="src" />
